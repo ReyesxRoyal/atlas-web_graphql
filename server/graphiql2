@@ -1,0 +1,10 @@
+{
+    "data": {
+        "task": {
+            "title": Structure your webpage",
+        "weight": 1
+        "description": "Copy the content of 0-index.htnl into 1-indes.html Create the head and body secttions insside the html tag, Creat the head and body tags(empty) in this order"   
+         }
+    }
+
+}
